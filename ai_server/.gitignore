@@ -1,0 +1,4 @@
+__pycache__
+model_fixed.pt
+model_temp.pt
+model_weights
